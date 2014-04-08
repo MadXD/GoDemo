@@ -1,3 +1,4 @@
+https://circleci.com/gh/MadXD/GoDemo.png?circle-token=528a6a85f1a15fd632e0f2d476557c18f54cbb9f
 GoDemo
 ======
 
